@@ -5,4 +5,4 @@
 - 💬 Ask me about: JavaScript, Vue.js, React.js or anything else that's Frontend related 🤓
 - 📫 How to reach me: anestisg.f@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak four languages 🇳🇴 Norwegian - 🇬🇷 Greek - 🇪🇸 Spanish & 🇺🇸 English
+- ⚡ Fun fact: I speak four languages 🇳🇴 Norwegian  🇬🇷 Greek  🇪🇸 Spanish  🇺🇸 English

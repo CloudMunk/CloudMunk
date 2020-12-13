@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on various consulting projects for [SYSCO](https://sysco.no/).
 - 🌱 I’m currently learning: Typescript, Deno & Python.
-- 💬 Ask me about: Anything Frontend related, expecially Vue & React.
+- 💬 Ask me about: JavaScript, Vue.js, React.js or anything else that's Frontend related 🤓
 - 📫 How to reach me: anestisg.f@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak four languages: English, Greek, Norwegian and Spanish.
-
+- ⚡ Fun fact: I speak four languages 🇳🇴 Norwegian - 🇬🇷 Greek - 🇪🇸 Spanish & 🇺🇸 English
